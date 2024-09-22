@@ -29,7 +29,8 @@ For the backend implementation, check out the
 
 ## 🔧 Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/user-management-frontend.git
-   ```
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/user-management-frontend.git
+```
